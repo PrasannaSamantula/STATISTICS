@@ -1,14 +1,22 @@
 **STATISTICS:**
+
       Types of Statistics:
+      
         1)Descriptive Statistics
+        
         2)Inferential Statistics
 
         
   **1) DESCRIPTIVE STATISTICS:**
+  
         a) Measure Of Central Tendency:
+        
             i) Mean
+            
             ii) Median
+            
             iii) Mode
+            
         b) Measure Of Variability:
             i) Variance
             ii) Standard Deviation
